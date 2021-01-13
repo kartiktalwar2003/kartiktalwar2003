@@ -27,3 +27,6 @@ I'm a developer from India
 
 ## Badge 1
 [![Discord Bots](https://top.gg/api/widget/servers/697463492457922571.svg)](https://top.gg/bot/697463492457922571)
+
+## Stats 1
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kartiktalwar2003&show_icons=true&hide_border=true)](https://github.com/kartiktalwar2003)
