@@ -30,6 +30,3 @@ I'm a developer from India
 
 ## Stats 1
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kartiktalwar2003&show_icons=true&hide_border=true&theme=system)](https://github.com/kartiktalwar2003)
-
-## Stats 2
-[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktalwar2003&theme=system)](https://github.com/kartiktalwar2003)
