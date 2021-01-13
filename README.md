@@ -5,7 +5,8 @@ I'm a developer from India
 ### Experience and Tools ✏️
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gCmPWtC)
-[![Discord](https://static.wixstatic.com/media/1138e6_60716f77cfbd4d71908691e928802d8e~mv2.png/v1/fill/w_63,h_63,al_c,q_85,usm_0.66_1.00_0.01/lazy%20buds%20chota.webp)](https://discord.gg/gCmPWtC)
+[![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)    
 
 ## Shield
 [![Discord Shield](https://discordapp.com/api/guilds/545956933170102283/widget.png?style=shield)](https://discord.gg/gCmPWtC)
