@@ -29,4 +29,4 @@ I'm a developer from India
 [![Discord Bots](https://top.gg/api/widget/servers/697463492457922571.svg)](https://top.gg/bot/697463492457922571)
 
 ## Stats 1
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=kartiktalwar2003&show_icons=true&hide_border=true&theme=system)](https://github.com/kartiktalwar2003)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kartiktalwar2003&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/kartiktalwar2003)
