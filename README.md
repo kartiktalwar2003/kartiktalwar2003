@@ -1,6 +1,6 @@
 ## Hi! I'm Kartik Talwar
 
-I'm a developer from India
+I'm a developer from Delhi,India
 
 ### Experience and Tools ✏️
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -10,6 +10,20 @@ I'm a developer from India
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)](https://wix.com/)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+## About Work
+
+I manage/work in [Team Lazy Buds](https://github.com/LazyBuds) for making Discord Bots and Servers.
+Our team's main motive is to provide users the best quality bots and servers.
+Check out our [website](https://lazybuds.xyz):- https://lazybuds.xyz
+
+## My Team:
+
+Kartik
+Sanket
+Rohan a.k.a Tommy
+Voxeli
+
 
 ## Join my server
 [![Discord Banner 2](https://discordapp.com/api/guilds/545956933170102283/widget.png?style=banner2)](https://discord.gg/gCmPWtC)
