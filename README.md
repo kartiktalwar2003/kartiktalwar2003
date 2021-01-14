@@ -14,5 +14,5 @@ I'm a developer from India
 ## Join my server
 [![Discord Banner 2](https://discordapp.com/api/guilds/545956933170102283/widget.png?style=banner2)](https://discord.gg/gCmPWtC)
 
-## Stats 1
+## Github Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kartiktalwar2003&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/kartiktalwar2003)
