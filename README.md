@@ -11,7 +11,7 @@ I'm a developer from India
 [![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)](https://wix.com/)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-## Banner 2
+## Join my server
 [![Discord Banner 2](https://discordapp.com/api/guilds/545956933170102283/widget.png?style=banner2)](https://discord.gg/gCmPWtC)
 
 ## Stats 1
