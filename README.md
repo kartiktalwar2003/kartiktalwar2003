@@ -18,6 +18,9 @@ I manage/work in [Team Lazy Buds](https://github.com/LazyBuds) for making Discor
 Our team's main motive is to provide users the best quality bots and servers.
 Check out our [website](https://lazybuds.xyz):- https://lazybuds.xyz
 
+You can DM me at Discord anytime for any questions, help, custom bot/server management offers, etc.
+DM me at Kartik#0001 (451707918320926733) or mail me on contact@lazybuds.xyz
+
 # My Team:
 
 > [Kartik](https://github.com/kartiktalwar2003) <br>
@@ -41,7 +44,7 @@ We've one web domain that anyone can visit.
 We've a few custom bots also.
 > [Oasis Roleplay Bot#6459](https://discord.gg/G6GcPk6yt5) (784310162155503646) for [Oasis Roleplay Philippines](https://discord.gg/G6GcPk6yt5) server. <br>
 
-`All of these services are owned/managed by Team Lazy Buds.`
+All of these services are owned/managed by Team Lazy Buds. By using any of our services in any way(adding bots, using official website), you are consenting to the [terms](https://lazybuds.xyz/terms/). If you, do not agree to the [terms](https://lazybuds.xyz/terms/), you can stop using the service(s) immediately. If you, want to suggest any changes mail us at contact@lazybuds.xyz or contact us on [Discord Server](https://discord.gg/tytyS3z)
 
 
 # Join my server
