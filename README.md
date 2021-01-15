@@ -28,12 +28,12 @@ Check out our [website](https://lazybuds.xyz):- https://lazybuds.xyz
 # Our Services
 We've a total of 4 Global Bots that are available to everyone for using in their server's. 
 ### Coded in Python
-> [Recolt](https://discord.com/oauth2/authorize?client_id=634008262525583360&scope=bot&permissions=372637001)
-> [Tommy](https://discord.com/api/oauth2/authorize?client_id=697463492457922571&permissions=2147483639&redirect_uri=https%3A%2F%2Fwww.lazybuds.xyz%2Ftommy&response_type=code&scope=identify%20bot)
-> [COVID-19 India](https://discord.com/api/oauth2/authorize?client_id=634008262525583360&permissions=8&scope=bot)
+> [Recolt](https://discord.com/oauth2/authorize?client_id=634008262525583360&scope=bot&permissions=372637001) <br>
+> [Tommy](https://discord.com/api/oauth2/authorize?client_id=697463492457922571&permissions=2147483639&redirect_uri=https%3A%2F%2Fwww.lazybuds.xyz%2Ftommy&response_type=code&scope=identify%20bot) <br>
+> [COVID-19 India](https://discord.com/api/oauth2/authorize?client_id=634008262525583360&permissions=8&scope=bot) <br>
 
 ### Coded in JavaScript
-> [Hideaki](https://discord.com/api/oauth2/authorize?client_id=742070928111960155&permissions=2147483607&redirect_uri=https%3A%2F%2Flazybuds.xyz%2Fhideaki&response_type=code&scope=bot%20identify)
+> [Hideaki](https://discord.com/api/oauth2/authorize?client_id=742070928111960155&permissions=2147483607&redirect_uri=https%3A%2F%2Flazybuds.xyz%2Fhideaki&response_type=code&scope=bot%20identify) <br>
 
 We've one web domain that anyone can visit.
 > https://lazybuds.xyz/
