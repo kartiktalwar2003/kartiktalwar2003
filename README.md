@@ -39,7 +39,7 @@ We've one web domain that anyone can visit.
 > https://lazybuds.xyz/
 
 We've a few custom bots also.
-> Oasis Roleplay Bot#6459 (784310162155503646) for [Oasis Roleplay Philippines](https://discord.gg/G6GcPk6yt5) server. <br>
+> [Oasis Roleplay Bot#6459](https://discord.gg/G6GcPk6yt5) (784310162155503646) for [Oasis Roleplay Philippines](https://discord.gg/G6GcPk6yt5) server. <br>
 
 `All of these services are owned/managed by Team Lazy Buds.`
 
