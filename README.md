@@ -19,10 +19,10 @@ Check out our [website](https://lazybuds.xyz):- https://lazybuds.xyz
 
 ## My Team:
 
-Kartik
-Sanket
-Rohan a.k.a Tommy
-Voxeli
+Kartik\n
+Sanket\n
+Rohan a.k.a Tommy\n
+Voxeli\n
 
 
 ## Join my server
