@@ -19,7 +19,7 @@ Our team's main motive is to provide users the best quality bots and servers.
 Check out our [website](https://lazybuds.xyz):- https://lazybuds.xyz
 
 You can DM me at Discord anytime for any questions, help, custom bot/server management offers, etc.
-DM me at Kartik#0001 (451707918320926733) or mail me on contact@lazybuds.xyz
+DM me at [Kartik#0001 (451707918320926733)](https://discord.com/users/451707918320926733) or mail me on contact@lazybuds.xyz
 
 # My Team:
 
