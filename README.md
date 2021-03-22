@@ -52,3 +52,7 @@ All of these services are owned/managed by Team Lazy Buds. By using any of our s
 
 # Github Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kartiktalwar2003&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/kartiktalwar2003)
+
+# Spotify
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=a4hu89laucwrbmnbtvmgptb4r&count=1)
+
