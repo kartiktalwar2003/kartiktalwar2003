@@ -12,6 +12,18 @@ I'm a developer from Delhi,India
 [![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)](https://wix.com/)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
+https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white
+https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white
+https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white
+https://img.shields.io/badge/<handle>%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/<handle>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white
+https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white
+  https://img.shields.io/badge/<handle>%20-%23107C10.svg?&style=for-the-badge&logo=Xbox&logoColor=white
+  https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white
+
 # About Work
 
 I manage/work in [Team Lazy Buds](https://github.com/LazyBuds) for making Discord Bots and Servers.
