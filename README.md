@@ -30,7 +30,7 @@ I'm a developer from Delhi,India
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://discord.gg/gCmPWtC)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://discord.gg/gCmPWtC)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://discord.gg/gCmPWtC)
-[![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-2D8CFF?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://discord.gg/gCmPWtC)
+[![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://discord.gg/gCmPWtC)
 
 
 # About Work
