@@ -25,7 +25,7 @@ DM me at [Kartik#0001 (451707918320926733)](https://discord.com/users/4517079183
 
 > [Kartik](https://github.com/kartiktalwar2003) <br>
 > [Sanket](https://github.com/sanket-16) <br>
-> [Rohan](https://github.com/Rohanarora17) a.k.a Tommy <br>
+> [Rohan](https://github.com/Rohanarora17) <br>
 > [Voxeli](https://github.com/legendhimslef) <br>
 
 # Our Services
