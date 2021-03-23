@@ -11,11 +11,9 @@ I'm a developer from Delhi,India
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)](https://wix.com/)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white)](https://github.com/pallets/flask)
 
-https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white
-https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white
 https://img.shields.io/badge/<handle>%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
@@ -29,6 +27,7 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&l
   https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white
   https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
   https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white
+  https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 
 # About Work
 
