@@ -1,11 +1,10 @@
-### Hi! I'm Kartik Talwar
+## Hi! I'm Kartik Talwar
 
 I'm a developer from Delhi,India
 
 # Experience and Tools ✏️
 
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gCmPWtC)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -14,16 +13,21 @@ I'm a developer from Delhi,India
 [![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white)](https://github.com/pallets/flask)
 
-https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white
-https://img.shields.io/badge/<handle>%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/<handle>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white
-https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white
-https://img.shields.io/badge/<handle>%20-%23107C10.svg?&style=for-the-badge&logo=Xbox&logoColor=white
-https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-  https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
-  https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
+## App's I use on daily basis :
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gCmPWtC)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://discord.gg/gCmPWtC)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://discord.gg/gCmPWtC)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://discord.gg/gCmPWtC)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://discord.gg/gCmPWtC)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://discord.gg/gCmPWtC)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://discord.gg/gCmPWtC)
+
+## Services I use :
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://discord.gg/gCmPWtC)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://discord.gg/gCmPWtC)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://discord.gg/gCmPWtC)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://discord.gg/gCmPWtC)
+
   https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white
   https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
   https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white
