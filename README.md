@@ -72,6 +72,7 @@ All of these services are owned/managed by Team Lazy Buds. By using any of our s
 [![Server Widget](https://discordapp.com/api/guilds/545956933170102283/widget.png?style=banner2)](https://discord.gg/gCmPWtC)
 
 # Github Stats
+[![Profile Views](https://komarev.com/ghpvc/?username=kartiktalwar2003&style=flat-square&color=000000)](https://github.com/kartiktalwar2003/)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kartiktalwar2003&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/kartiktalwar2003)
 
 # Spotify
